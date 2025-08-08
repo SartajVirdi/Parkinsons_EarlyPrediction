@@ -180,3 +180,10 @@ This project was originally part of a collaborative effort during the **ELC Summ
 -  **Automate feature extraction pipelines** for both voice and tremor data
 -  **Deploy the system via web or mobile interface** for broader accessibility
 -  **Explore additional biomarkers and neurological indicators** beyond Parkinson’s Disease
+---
+
+##  Project Poster
+
+<p align="center">
+  <img src="media/Poster.jpg" alt="NeuroGait-Eye Poster" width="800">
+</p>
