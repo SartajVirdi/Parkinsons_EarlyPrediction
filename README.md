@@ -133,10 +133,10 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 📬 Contact
 
-**Eshaan Singla**  
-📧 eshaansingla2807@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/eshaansingla)  
-🔗 [GitHub](https://github.com/eshaansingla)
+**Sartaj Singh Virdi**  
+📧 sartajvirdi@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/sartaj-singh-virdi-8b85b8352/)  
+🔗 [GitHub](https://github.com/SartajVirdi)
 
 ---
 
