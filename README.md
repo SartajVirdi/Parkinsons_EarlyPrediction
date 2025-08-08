@@ -157,7 +157,7 @@ This project was originally part of a collaborative effort during the **ELC Summ
 
 **Core team members:**
 
-- [Eshaan Singla](https://www.linkedin.com/in/eshaan-singla/)  
+- Eshaan Singla
 - Ranesh Prashar  
 - Sartaj Singh Virdi  
 - Ujjwal Agarwal  
